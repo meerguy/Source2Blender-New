@@ -10,9 +10,9 @@ MDL is the extension for Source's proprietary model format. It defines the struc
 
 ## VMTs
 
-A VMT ("Valve Material") file defines the material used by a two-dimensional surface. It contains all of the information needed for [![Source](https://developer.valvesoftware.com/w/images/thumb/1/10/Icon-Source.png/16px-Icon-Source.png)](https://developer.valvesoftware.com/wiki/Source) Source to simulate the surface visually, aurally, and physically.\
+A VMT ("Valve Material") file defines the material used by a two-dimensional surface. It contains all of the information needed for Source to simulate the surface visually, aurally, and physically.\
 If a material is missing, it will produce the infamous Source pink and black checkered pattern. A white wireframe is not a missing material, but instead a missing shader.
 
 ## VTFs
 
-The Valve Texture Format (VTF) is the proprietary texture format used by the [![Source](https://developer.valvesoftware.com/w/images/thumb/1/10/Icon-Source.png/16px-Icon-Source.png)](https://developer.valvesoftware.com/wiki/Source) Source engine. VTF files are generally referenced in a Material instead of being accessed directly, which allows re-use in different ways.
+The Valve Texture Format (VTF) is the proprietary texture format used by the Source engine. VTF files are generally referenced in a Material instead of being accessed directly, which allows re-use in different ways.
